@@ -96,9 +96,9 @@ Console.WriteLine(num);
 
 //Home
 //Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
-//[345, 897, 568, 234] -> 2
 
-int[] GetArray(int size,int min,int max)
+
+/*int[] GetArray(int size,int min,int max)
 {
     int[] array=new int[size];
     Random rand=new Random();
@@ -128,10 +128,38 @@ int[] arr=GetArray(10,100,999);
 
 Console.WriteLine(string.Join(", ",arr));
 Console.WriteLine($"Even nums: "+ GetElement(arr));
-
+*/
 //Задача 36: Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
-//[3, 7, 23, 12] -> 19
-//[-4, -6, 89, 6] -> 0
 
+
+int[] GetArray(int size,int min,int max)
+{
+    int[] array=new int[size];
+    Random rand=new Random();
+    for (int i=0; i<array.Length;i++)
+    {
+        array[i]=rand.Next(min,max+1);
+    }
+
+    return array;
+}
+
+int GetElement(int[] array)
+{
+    int sumi=0;
+    for(int i=1 ;i<array.Length;i=i+2)
+    {
+        
+        sumi=sumi+array[i];
+        
+        
+    }
+    return sumi;
+}
+
+int[] arr=GetArray(4,-10,10);
+
+Console.WriteLine(string.Join(", ",arr));
+Console.WriteLine($"Sum not even nums:"+ GetElement(arr));
 //Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 //[3 7 22 2 78] -> 76
