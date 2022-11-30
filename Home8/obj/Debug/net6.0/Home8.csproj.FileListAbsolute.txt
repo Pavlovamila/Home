@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Homeworkss\Home8\bin\Debug\net6.0\Home8.exe
+C:\Users\user\Desktop\Homeworkss\Home8\bin\Debug\net6.0\Home8.deps.json
+C:\Users\user\Desktop\Homeworkss\Home8\bin\Debug\net6.0\Home8.runtimeconfig.json
+C:\Users\user\Desktop\Homeworkss\Home8\bin\Debug\net6.0\Home8.dll
+C:\Users\user\Desktop\Homeworkss\Home8\bin\Debug\net6.0\ref\Home8.dll
+C:\Users\user\Desktop\Homeworkss\Home8\bin\Debug\net6.0\Home8.pdb
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\Home8.GlobalUsings.g.cs
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\Home8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\Home8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\Home8.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\Home8.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\Home8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\Home8.dll
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\ref\Home8.dll
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\Home8.pdb
+C:\Users\user\Desktop\Homeworkss\Home8\obj\Debug\net6.0\Home8.genruntimeconfig.cache
