@@ -1,41 +1,38 @@
-﻿int[] GetEvenArray(int[] inputArr) // Возращает новый массив в котором содержаться четные числа исходного массива
-{
-    int[] resultArr = new int[inputArr.Length];
-    int j = 0;
-    for (int i = 0; i < inputArr.Length; i++)
-        if (inputArr[i] % 2 == 0)
-        {
-            resultArr[j] = inputArr[i];
+﻿//Обьявления массива
+string[] myArray = { "123", "1567", "-2", "435tret" };
+//Вывод массива
+string str = string.Join(", ", myArray);
+Console.Write($"[{str}] -> ");
+int j = 1;
+//Длина массива  j <=3
+for (int i = 0; i < myArray.Length; i++)
+{   
+    //Проверка ячейку массива на <=3
+    if (myArray[i].Length <= 3)
+    {        
+            
+            Console.Write($"{myArray[i]}, "); 
             j++;
-        }
-    Array.Resize(ref resultArr, j);
-    return resultArr;
-}
-
-void PrintArray(int[] arr, string preStr = "", string postStr = "\n") // Выводит на экран элементы массива через запятую
-{
-    Console.Write(preStr);
-    for (int i = 0; i < arr.Length; i++)
-        if(i != arr.Length - 1) Console.Write($"{arr[i]}, ");
-        else                    Console.Write($"{arr[i]}");
-    Console.Write(postStr);
-}
-
-void FillRandomArray(int[] arr, int minVal, int maxVal) // Возращает заполненный псевдослучайными числами [minVal;maxVal) массив
-{
-    for (int i = 0; i < arr.Length; i++)
-        arr[i] = new Random().Next(minVal, maxVal);
-}
-
-bool IsEqualArray(int[] arrA, int[] arrB) // Сравнивает поэлементно два массива: True - идентичны, False - отличаются.
-{
-    if (arrA.Length != arrB.Length) return false;
-    else
-    {
-        for (int i = 0; i < arrA.Length; i++)
-            if (arrA[i] != arrB[i]) return false;
+               
     }
-    return true;
+}
+//Обьявления массива меньше <=3
+string[] myArrayThree = new string[j];
+
+j=0;
+
+//Формирования нового массива
+for (int i = 0; i < myArray.Length; i++)
+{   
+    if (myArray[i].Length <= 3)
+    {        
+            
+            
+            myArrayThree[j]=myArray[i]; 
+            j++;
+               
+    }
 }
 
-Console.Clear();
+string str2 = string.Join(" ", myArrayThree);
+Console.WriteLine($"Новый массив: {str2} ");
