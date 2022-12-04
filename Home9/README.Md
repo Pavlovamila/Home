@@ -14,3 +14,4 @@
 
 ["Russia", "Denmark", "Kazan"] -> [" "]
 
+![](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/user/Downloads/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE.drawio.png?version%3D1670180441419)
