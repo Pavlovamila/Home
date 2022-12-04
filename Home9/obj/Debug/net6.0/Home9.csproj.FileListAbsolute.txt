@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Homeworkss\Home9\bin\Debug\net6.0\Home9.exe
+C:\Users\user\Desktop\Homeworkss\Home9\bin\Debug\net6.0\Home9.deps.json
+C:\Users\user\Desktop\Homeworkss\Home9\bin\Debug\net6.0\Home9.runtimeconfig.json
+C:\Users\user\Desktop\Homeworkss\Home9\bin\Debug\net6.0\Home9.dll
+C:\Users\user\Desktop\Homeworkss\Home9\bin\Debug\net6.0\ref\Home9.dll
+C:\Users\user\Desktop\Homeworkss\Home9\bin\Debug\net6.0\Home9.pdb
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\Home9.GlobalUsings.g.cs
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\Home9.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\Home9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\Home9.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\Home9.AssemblyInfo.cs
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\Home9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\Home9.dll
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\ref\Home9.dll
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\Home9.pdb
+C:\Users\user\Desktop\Homeworkss\Home9\obj\Debug\net6.0\Home9.genruntimeconfig.cache
